@@ -354,5 +354,5 @@ function findMiddle(head) {
 
 ## Rotation
 Front-End -> Back-End -> Whiteboarding -> Group-Programming ↴
-↑                                                           |
-↑⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵ ↲
+
+↑⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵⟵ ↲
